@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## BTS: lyricism and self-love
 
 You can use the [editor on GitHub](https://github.com/abibait-it/bts-lyricism/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
